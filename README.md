@@ -6,11 +6,11 @@ A one-click [Ghost](https://ghost.org/) deployment on [Azure Web App for Contain
 
 ### Option 1: Deploy web app with Azure CDN
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandrewmatveychuk%2Fazure.ghost-web-app-for-containers%2Fmaster%2Fazuredeploy.cdn.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbpluckeb%2Fazure.ghost-web-app-for-containers%2Fmaster%2Fazuredeploy.cdn.json)
 
 ### Option 2: Deploy web app  with Azure Front Door
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandrewmatveychuk%2Fazure.ghost-web-app-for-containers%2Fmaster%2Fazuredeploy.frontdoor.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbpluckeb%2Fazure.ghost-web-app-for-containers%2Fmaster%2Fazuredeploy.frontdoor.json)
 
 ## Getting Started
 
