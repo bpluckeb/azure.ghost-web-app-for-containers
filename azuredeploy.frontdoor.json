@@ -8,6 +8,7 @@
                 "description": "Prefix to use when creating the resources in this deployment.",
                 "name": "Application name prefix"
             },
+            "maxLength": 7,
             "defaultValue": "ghost"
         },
         "hostingPlanSku": {
